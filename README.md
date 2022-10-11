@@ -8,6 +8,8 @@ Banco de Dados para Farmácia implementado no MySQL Workbench
 SELECT * FROM conhecimentos_mysql;
 ```
 
+![modelagem](farmacia.png)
+
 ---
 
 #### Contato:
