@@ -1,5 +1,7 @@
 # Banco de Dados para farmácia
 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 Este repositório existe somente para fins de estudo. Será implementado também para estudo do Git Flow.
 
 Banco de Dados para Farmácia implementado no MySQL Workbench
