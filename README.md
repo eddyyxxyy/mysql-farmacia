@@ -17,5 +17,6 @@ SELECT * FROM conhecimentos_mysql;
 #### Contato:
 
 [LinkedIn](https://www.linkedin.com/in/eeddyyxxyy/ "Para contato profissional")
+[Gmail](mailto:dev.eddyyxxyy@gmail.com? "Para contato profissional")
 
 [Currículo Online](https://eddyyxxyy.github.io/#home "Realizado no curso de Git e Github: Essencial")
